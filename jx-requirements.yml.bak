@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: jenkins.rapminerz.io
+    domain: ""
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
